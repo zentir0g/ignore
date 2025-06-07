@@ -165,8 +165,8 @@
 @wentby - $40 -
 @thiefing - $50 -
 @outfan - $40 -
-new @subtractings - $45 -
-new @princesscuts - $45 -
+@subtractings - $45 -
+@princesscuts - $45 -
 new @worldfailure - $15 -
 new @outcurse - $45 - 
 new @haltingly - $35 -
