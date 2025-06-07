@@ -171,3 +171,4 @@ new @worldfailure - $15 -
 new @outcurse - $45 - 
 new @haltingly - $35 -
 new @fuckablefemboy - $15 -
+new @echograph - $60 - Perfect for the loud micers
