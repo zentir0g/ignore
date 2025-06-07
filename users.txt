@@ -92,7 +92,6 @@
 @slightings - $30 -
 @absumes - $25 -
 @cavels - $25 -
-@oldfile - $30 -
 @Unprove - $35 -
 @behorn - $25 -
 @subtense - $30 -
