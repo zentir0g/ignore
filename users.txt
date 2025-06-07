@@ -165,13 +165,6 @@
 @outfan - $40 -
 @subtractings - $45 -
 @princesscuts - $45 -
-new @worldfailure - $15 -
-new @outcurse - $45 - 
-new @haltingly - $35 -
-new @fuckablefemboy - $15 -
-new @echograph - $60 - Perfect for the loud micers
-new @overtyping - $35 - 
-new @prewait - $25 - 
 @oldfile - sold - 
 @drugy - sold - 
 @usent - sold -
@@ -185,3 +178,11 @@ new @prewait - $25 -
 @connivings - sold - 
 @aftergrave - sold - 
 @unemployments - sold - 
+new @worldfailure - $15 -
+new @outcurse - $45 - 
+new @haltingly - $35 -
+new @fuckablefemboy - $15 -
+new @echograph - $60 - Perfect for the loud micers
+new @overtyping - $35 - 
+new @prewait - $25 - 
+new @dogbreeds - $150 - 
