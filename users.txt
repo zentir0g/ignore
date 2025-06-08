@@ -189,3 +189,6 @@ new @dogbreeds - $150 -
 new @normalities - $70 -
 new @gavehimhead - $35 -
 new @glockmarket - $80 -
+new @renumbers - $35 -
+new @obtainings - $40 - 
+new @attemptable - $55 -
