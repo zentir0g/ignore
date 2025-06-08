@@ -178,20 +178,21 @@
 @connivings - sold - 
 @aftergrave - sold - 
 @unemployments - sold - 
-new @worldfailure - $15 -
-new @outcurse - $45 - 
-new @haltingly - $35 -
-new @fuckablefemboy - $15 -
+@worldfailure - $15 -
+@outcurse - $45 - 
+@haltingly - $35 -
+@fuckablefemboy - $15 -
 new @echograph - $60 - Perfect for the loud micers
 new @overtyping - $35 - 
 new @prewait - $25 - 
 new @dogbreeds - $150 - 
 new @normalities - $70 -
-new @gavehimhead - $35 -
-new @glockmarket - $80 -
-new @renumbers - $35 -
+@gavehimhead - $35 -
+@glockmarket - $80 -
+@renumbers - $35 -
 new @obtainings - $40 - 
 new @attemptable - $55 -
 new @epetite - $65 - 
 new @savedherlife - $15 - 
 new @threatenable - $75 - 
+new @bloodvalue - $60
