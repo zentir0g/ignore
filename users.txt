@@ -195,4 +195,4 @@ new @attemptable - $55 -
 new @epetite - $65 - 
 new @savedherlife - $15 - 
 new @threatenable - $75 - 
-new @bloodvalue - $60
+new @bloodvalue - $60 - 
