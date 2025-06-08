@@ -193,4 +193,4 @@ new @renumbers - $35 -
 new @obtainings - $40 - 
 new @attemptable - $55 -
 new @epetite - $65 - 
-new @savedherlife - $40 - 
+new @savedherlife - $15 - 
