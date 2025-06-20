@@ -216,7 +216,7 @@
 new @incompletely - $45 - 
 new @judgings - $40 - 
 new @regives - $35 - 
-new @xtudent - sold - 
+@xtudent - sold - 
 new @horrorscapes - $70 - 
 new @groomish - $45 - 
 new @numidians - $55 - 
