@@ -166,7 +166,7 @@
 @overtyping - $35 - 
 @prewait - $25 - 
 @dogbreeds - $150 - 
-@normalities - $70 -
+@normalities - $300 - Comes with instagram username
 @gavehimhead - $35 -
 @glockmarket - $80 -
 @renumbers - $35 -
