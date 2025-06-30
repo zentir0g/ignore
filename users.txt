@@ -1,4 +1,4 @@
-discount - no
+discount - 10%
 @sexern - $50 -
 @loudsex - SOLD -
 @violentpussy - $90 -
@@ -214,97 +214,180 @@ discount - no
 @smokeladen - $55 - 
 @watchwords - $85 - 
 @succored - $85 - 
-new @incompletely - $45 - 
-new @judgings - $40 - 
-new @regives - $35 - 
+@incompletely - $45 - 
+@judgings - $40 - 
+@regives - $35 - 
 @xtudent - sold - 
-new @horrorscapes - $70 - 
-new @groomish - $45 - 
-new @numidians - $55 - 
-new @understates - $60 - 
-new @scarings - $40 - 
-new @deputied - $35 - 
-new @murdercharge - $75 - 
-new @snoozier - $50 - 
-new @iranians - $80 - 
-new @coapts - $30 - 
-new @fifthly - $40 - 
-new @sidely - $35 - 
-new @derestriction - $55 - 
-new @disjunctions - $65 - 
-new @miserablely - $45 - 
-new @onsold - $30 - 
-new @cloudservice - $75 - 
-new @uncomplete - $35 - 
-new @smure - $30 - 
-new @resections - $45 - 
-new @stalkless - $55 - 
-new @clingyness - $40 - 
-new @subcaste - $45 - 
-new @catholicist - $70 - 
-new @carbonizing - $40 - 
-new @arsenous - $40 - 
-new @ungraves - $35 - 
-new @balanger - $35 - 
-new @jeopardised - $55 - 
-new @redraspberries - $65 - 
-new @executings - $60 - 
-new @solemnness - $70 - 
-new @kniferest - $55 - 
-new @moochings - $50 - 
-new @obsoleting - $65 - 
-new @coffeesage - $75 - 
-new @helcosis - $40 - 
-new @blotches - $50 - 
-new @quincaillerie - $70 - 
-new @failedlittle - $35 - 
-new @skatingonthinice - $80 - 
-new @profittakings - $70 - 
-new @slut.com - $100 - 
-new @pinktightpussy - $95 - 
-new @sexlessly - $90 - 
-new @ithyphallique - $85 - 
-new @cultdamage - $85 - 
-new @whatsdonecannotbeundone - $80 - 
-new @cantbitch - $80 - 
-new @slutsite - $80 - 
-new @sorrowvictim - $75 - 
-new @unslut - $75 - 
-new @genderneutral - $70 - 
-new @larpable - $65 - 
-new @xclit - $65 - 
-new @fallingsinlove - $65 - 
-new @improvingmyself - $60 - 
-new @slutish - $60 - 
-new @precariousness - $60 - 
-new @poietic - $60 - 
-new @prerogatives - $55 - 
-new @institutionary - $55 - 
-new @decapsulation - $55 - 
-new @repetitiveness - $50 - 
-new @commonplaces - $50 - 
-new @obsequie - $50 - 
-new @convivially - $50 - 
-new @courtorders - $50 - 
-new @sublimeness - $50 - 
-new @manydrugs - $50 - 
-new @sandboxings - $45 - 
-new @diagonalised - $45 - 
-new @discontinuities - $45 - 
-new @intergroup - $45 - 
-new @upwash - $45 - 
-new @reclothe - $40 - 
-new @disinteress - $40 - 
-new @henotheisms - $40 - 
-new @larpingisfun - $40 - 
-new @larpedbands - $40 - 
-new @cutsforhim - $40 - 
-new @atitsworst - $40 - 
-new @necklines - $40 - 
-new @plsweed - $40 - 
-new @misoriented - $30 - 
-new @bedazzlement - $30 - 
-new @ostentative - $30 - 
-new @quaffing - $30 - 
-new @whingeing - $30 - 
-new @consummately - $30 - 
+@horrorscapes - $70 - 
+@groomish - $45 - 
+@numidians - $55 - 
+@understates - $60 - 
+@scarings - $40 - 
+@deputied - $35 - 
+@murdercharge - $75 - 
+@snoozier - $50 - 
+@iranians - $80 - 
+@coapts - $30 - 
+@fifthly - $40 - 
+@sidely - $35 - 
+@derestriction - $55 - 
+@disjunctions - $65 - 
+@miserablely - $45 - 
+@onsold - $30 - 
+@cloudservice - $75 - 
+@uncomplete - $35 - 
+@smure - $30 - 
+@resections - $45 - 
+@stalkless - $55 - 
+@clingyness - $40 - 
+@subcaste - $45 - 
+@catholicist - $70 - 
+@carbonizing - $40 - 
+@arsenous - $40 - 
+@ungraves - $35 - 
+@balanger - $35 - 
+@jeopardised - $55 - 
+@redraspberries - $65 - 
+@executings - $60 - 
+@solemnness - $70 - 
+@kniferest - $55 - 
+@moochings - $50 - 
+@obsoleting - $65 - 
+@coffeesage - $75 - 
+@helcosis - $40 - 
+@blotches - $50 - 
+@quincaillerie - $70 - 
+@failedlittle - $35 - 
+@skatingonthinice - $80 - 
+@profittakings - $70 - 
+@slut.com - $100 - 
+@pinktightpussy - $95 - 
+@sexlessly - $90 - 
+@ithyphallique - $85 - 
+@cultdamage - $85 - 
+@whatsdonecannotbeundone - $80 - 
+@cantbitch - $80 - 
+@slutsite - $80 - 
+@sorrowvictim - $75 - 
+@unslut - $75 - 
+@genderneutral - $70 - 
+@larpable - $65 - 
+@xclit - $65 - 
+@fallingsinlove - $65 - 
+@improvingmyself - $60 - 
+@slutish - $60 - 
+@precariousness - $60 - 
+@poietic - $60 - 
+@prerogatives - $55 - 
+@institutionary - $55 - 
+@decapsulation - $55 - 
+@repetitiveness - $50 - 
+@commonplaces - $50 - 
+@obsequie - $50 - 
+@convivially - $50 - 
+@courtorders - $50 - 
+@sublimeness - $50 - 
+@manydrugs - $50 - 
+@sandboxings - $45 - 
+@diagonalised - $45 - 
+@discontinuities - $45 - 
+@intergroup - $45 - 
+@upwash - $45 - 
+@reclothe - $40 - 
+@disinteress - $40 - 
+@henotheisms - $40 - 
+@larpingisfun - $40 - 
+@larpedbands - $40 - 
+@cutsforhim - $40 - 
+@atitsworst - $40 - 
+@necklines - $40 - 
+@plsweed - $40 - 
+@misoriented - $30 - 
+@bedazzlement - $30 - 
+@ostentative - $30 - 
+@quaffing - $30 - 
+@whingeing - $30 - 
+@consummately - $30 - 
+new @reclothe - $100 -  
+new @genderneutral - $100 -  
+new @manydrugs - $75 -  
+new @cantbitch - $90 -  
+new @unslut - $70 -  
+new @upwash - $70 -  
+new @cultdamage - $90 -  
+new @sexlessly - $90 -  
+new @larpable - $65 -  
+new @xclit - $110 -  
+new @slut.com - $400 -  
+new @slutish - $75 -  
+new @slutsite - $75 -  
+new @courtorders - $85 -  
+new @poietic - $85 -  
+new @sublimeness - $90 -  
+new @necklines - $55 -  
+new @cutsforhim - $50 -  
+new @ohslut - $70 -  
+new @pinktightpussy - $200 -  
+new @sorrowvictim - $85 -  
+new @improvingmyself - $75 -  
+new @plsweed - $65 -  
+new @larpingisfun - $50 -  
+new @larpedbands - $45 -  
+new @whatsdonecannotbeundone - $35 -  
+new @prerogatives - $65 -  
+new @commonplaces - $50 -  
+new @rawblacksex - $90 -  
+new @reclones - $45 -  
+new @bloodfestival - $55 -  
+new @bloodprop - $50 -  
+new @hirself - $70 -  
+new @contrivances - $65 -  
+new @mislest - $45 -  
+new @antiferromagnetism - $70 -  
+new @undiscernible - $70 -  
+new @valleygirls - $40 -  
+new @dissimilarities - $50 -  
+new @thighed - $50 -  
+new @stabbedintheback - $30 -  
+new @exhalants - $50 -  
+new @cuqs - $30 -  
+new @jzpl - $30 -  
+new @xovd - $30 -  
+new @wmgi - $30 -  
+new @tjtg - $30 -  
+new @fvnl - $30 -  
+new @sjcq - $30 -  
+new @gsmq - $30 -  
+new @cutepinkpussy - $150 -  
+new @larpingbtc - $65 -  
+new @cumquick - $85 -  
+new @kwqf - $30 -  
+new @siloing - $35 -  
+new @www.chess.com - $495 -  
+new @equalitarian - $85 -  
+new @vendibles - $40 -  
+new @ltclarp - $30 -  
+new @goingdowninhistory - $85 -  
+new @fedlarp - $30 -  
+new @redflagging - $65 -  
+new @tipcum - $80 -  
+new @cumshotonmyface - $45 -  
+new @cumingin - $30 -  
+new @begbitch - $35 -  
+new @pinkscut - $30 -  
+new @cutepinkcat - $70 -  
+new @dollysex - $90 -  
+new @veinlike - $65 -  
+new @worshippable - $35 -  
+new @videocallings - $65 -  
+new @outcarves - $30 -  
+new @verbage - $30 -  
+new @destabilising - $70 -  
+new @twilives - $65 -  
+new @affectible - $65 -  
+new @promiserings - $55 -  
+new @misanthropically - $70 -  
+new @furlined - $45 -  
+new @payably - $50 -  
+new @founde - $60 -  
+new @bankreceipt - $65 -  
