@@ -58,7 +58,7 @@ discount - no
 @solenocyte - $40 -
 @ribbond - $35 -
 @sleats - $25 -
-@wimping - $30 -
+@wimping - sold -
 @plading - $25 -
 @disco7d - $20 -
 @twies - SOLD -
