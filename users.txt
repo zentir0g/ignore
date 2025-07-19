@@ -311,7 +311,7 @@ new @dissimilarities - $50 -
 new @thighed - $50 -  
 new @stabbedintheback - $30 -  
 new @exhalants - $50 -  
-new @cuqs - $30 -  
+new @cuqs - sold -  
 new @jzpl - $30 -  
 new @xovd - $30 -  
 new @wmgi - $30 -  
