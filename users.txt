@@ -270,85 +270,86 @@ discount - no
 @quaffing - $30 - 
 @whingeing - $30 - 
 @consummately - $30 - 
-new @reclothe - $100 -  
-new @genderneutral - $100 -  
-new @manydrugs - $75 -  
-new @cantbitch - $90 -  
-new @unslut - $70 -  
-new @upwash - $70 -  
-new @cultdamage - $90 -  
-new @sexlessly - $90 -  
-new @larpable - $65 -  
-new @xclit - $110 -  
-new @slutish - $75 -  
-new @slutsite - $75 -  
-new @courtorders - $85 -  
-new @poietic - $85 -  
-new @sublimeness - $90 -  
-new @necklines - $55 -  
-new @cutsforhim - $50 -  
-new @ohslut - $70 -  
-new @pinktightpussy - $200 -  
-new @sorrowvictim - $85 -  
-new @improvingmyself - $75 -  
-new @plsweed - $65 -  
-new @larpingisfun - $50 -  
-new @larpedbands - $45 -  
-new @whatsdonecannotbeundone - $35 -  
-new @prerogatives - $65 -  
-new @commonplaces - $50 -  
-new @rawblacksex - $90 -  
-new @reclones - $45 -  
-new @bloodfestival - $55 -  
-new @bloodprop - $50 -  
-new @hirself - $70 -  
-new @contrivances - $65 -  
-new @mislest - $45 -  
-new @antiferromagnetism - $70 -  
-new @undiscernible - $70 -  
-new @valleygirls - $40 -  
-new @dissimilarities - $50 -  
-new @thighed - $50 -  
-new @stabbedintheback - $30 -  
-new @exhalants - $50 -  
-new @cuqs - sold -  
-new @jzpl - $30 -  
-new @xovd - $30 -  
-new @wmgi - $30 -  
-new @tjtg - $30 -  
-new @fvnl - $30 -  
-new @sjcq - $30 -  
-new @gsmq - $30 -  
-new @cutepinkpussy - $150 -  
-new @larpingbtc - $65 -  
-new @cumquick - $85 -  
-new @kwqf - $30 -  
-new @siloing - $35 -  
-new @www.chess.com - $495 -  
-new @equalitarian - $85 -  
-new @vendibles - $40 -  
-new @ltclarp - $30 -  
-new @goingdowninhistory - $85 -  
-new @fedlarp - $30 -  
-new @redflagging - $65 -  
-new @tipcum - $80 -  
-new @cumshotonmyface - $45 -  
-new @cumingin - $30 -  
-new @begbitch - $35 -  
-new @pinkscut - $30 -  
-new @cutepinkcat - $70 -  
-new @dollysex - $90 -  
-new @veinlike - $65 -  
-new @worshippable - $35 -  
-new @videocallings - $65 -  
-new @outcarves - $30 -  
-new @verbage - $30 -  
-new @destabilising - $70 -  
-new @twilives - $65 -  
-new @affectible - $65 -  
-new @promiserings - $55 -  
-new @misanthropically - $70 -  
-new @furlined - $45 -  
-new @payably - $50 -  
-new @founde - $60 -  
-new @bankreceipt - $65 -  
+@reclothe - $100 -  
+@genderneutral - $100 -  
+@manydrugs - $75 -  
+@cantbitch - $90 -  
+@unslut - $70 -  
+@upwash - $70 -  
+@cultdamage - $90 -  
+@sexlessly - $90 -  
+@larpable - $65 -  
+@xclit - $110 -  
+@slutish - $75 -  
+@slutsite - $75 -  
+@courtorders - $85 -  
+@poietic - $85 -  
+@sublimeness - $90 -  
+@necklines - $55 -  
+@cutsforhim - $50 -  
+@ohslut - $70 -  
+@pinktightpussy - $200 -  
+@sorrowvictim - $85 -  
+@improvingmyself - $75 -  
+@plsweed - $65 -  
+@larpingisfun - $50 -  
+@larpedbands - $45 -  
+@whatsdonecannotbeundone - $35 -  
+@prerogatives - $65 -  
+@commonplaces - $50 -  
+@rawblacksex - $90 -  
+@reclones - $45 -  
+@bloodfestival - $55 -  
+@bloodprop - $50 -  
+@hirself - $70 -  
+@contrivances - $65 -  
+@mislest - $45 -  
+@antiferromagnetism - $70 -  
+@undiscernible - $70 -  
+@valleygirls - $40 -  
+@dissimilarities - $50 -  
+@thighed - $50 -  
+@stabbedintheback - $30 -  
+@exhalants - $50 -  
+@cuqs - sold -  
+@jzpl - $30 -  
+@xovd - $30 -  
+@wmgi - $30 -  
+@tjtg - $30 -  
+@fvnl - $30 -  
+@sjcq - $30 -  
+@gsmq - $30 -  
+@cutepinkpussy - $150 -  
+@larpingbtc - $65 -  
+@cumquick - $85 -  
+@kwqf - $30 -  
+@siloing - $35 -  
+@www.chess.com - $495 -  
+@equalitarian - $85 -  
+@vendibles - $40 -  
+@ltclarp - $30 -  
+@goingdowninhistory - $85 -  
+@fedlarp - $30 -  
+@redflagging - $65 -  
+new @funfairs - $40 - 
+@tipcum - $80 -  
+@cumshotonmyface - $45 -  
+@cumingin - $30 -  
+@begbitch - $35 -  
+@pinkscut - $30 -  
+@cutepinkcat - $70 -  
+@dollysex - $90 -  
+@veinlike - $65 -  
+@worshippable - $35 -  
+@videocallings - $65 -  
+@outcarves - $30 -  
+@verbage - $30 -  
+@destabilising - $70 -  
+@twilives - $65 -  
+@affectible - $65 -  
+@promiserings - $55 -  
+@misanthropically - $70 -  
+@furlined - $45 -  
+@payably - $50 -  
+@founde - $60 -  
+@bankreceipt - $65 -  
