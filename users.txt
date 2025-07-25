@@ -100,7 +100,7 @@ discount - no
 @eorta - $45 -
 @hockeys - sold -
 @brothersinlaw - $60 -
-@kickouts - $45 -
+@kickouts - sold -
 @reclaimings - $30 -
 @reshares - $35 -
 @forgiveable - SOLD -
