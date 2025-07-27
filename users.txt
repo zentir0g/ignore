@@ -52,7 +52,7 @@ discount - no
 @oppressings - $30 -
 @deafning - $45 -
 @criterial - $40 -
-@Overdozing - $30 -
+@Overdozing - sold -
 @pipettes - $35 -
 @egoical - Sold -
 @solenocyte - $40 -
