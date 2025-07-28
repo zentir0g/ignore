@@ -354,6 +354,6 @@ discount - no
 @founde - $60 -  
 @bankreceipt - $65 -  
 new @supplyment - $50 -
-new @japanism - $110 10 - 
+new @japanism - $110 %10 - 
 new @jetlagging - $70 - 
 new @bloodshedding - $120 - 
