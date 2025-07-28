@@ -331,7 +331,7 @@ discount - no
 @goingdowninhistory - $85 -  
 @fedlarp - $30 -  
 @redflagging - $65 -  
-new @funfairs - $40 - 
+@funfairs - $40 - 
 @tipcum - $80 -  
 @cumshotonmyface - $45 -  
 @cumingin - $30 -  
@@ -353,7 +353,7 @@ new @funfairs - $40 -
 @payably - $50 -  
 @founde - $60 -  
 @bankreceipt - $65 -  
-@supplyment - $50 -
-@japanism - $110 10% - 
-@jetlagging - $70 - 
-@bloodshedding - $120 - 
+new @supplyment - $50 -
+new @japanism - $110 10% - 
+new @jetlagging - $70 - 
+new @bloodshedding - $120 - 
