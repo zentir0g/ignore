@@ -353,3 +353,7 @@ new @funfairs - $40 -
 @payably - $50 -  
 @founde - $60 -  
 @bankreceipt - $65 -  
+@supplyment - $50 -
+@japanism - $110 10% - 
+@jetlagging - $70 - 
+@bloodshedding - $120 - 
