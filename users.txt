@@ -264,7 +264,7 @@ discount - no
 @atitsworst - $40 - 
 @necklines - $40 - 
 @plsweed - $40 - 
-@misoriented - $30 - 
+@misoriented - sold - 
 @bedazzlement - $30 - 
 @ostentative - $30 - 
 @quaffing - $30 - 
