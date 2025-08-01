@@ -137,7 +137,7 @@ discount - no
 @obtainings - $40 - 
 @attemptable - sold -
 @epetite - $65 - 
-@savedherlife - $15 - 
+@savedherlife - sold - 
 @threatenable - $75 - 
 @bloodvalue - $60 - 
 @cutepinkpaws - $35 - 
