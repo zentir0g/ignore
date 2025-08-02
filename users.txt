@@ -357,3 +357,13 @@ new @supplyment - $50 -
 new @japanism - $110 %10 - 
 new @jetlagging - $70 - 
 new @bloodshedding - $120 - 
+new @crookery - $90 -
+new @wealthe - $100 -
+new @glancings - $60 -
+new @imparts - $75 -
+new @puerilism - $110 -
+new @miswritting - $40 -
+new @laywomen - $70 -
+new @imputative - $95 -
+new @declinations - $85 -
+new @subpose - $120 -
