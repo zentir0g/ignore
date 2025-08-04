@@ -177,7 +177,7 @@ discount - no
 @smokeladen - $55 - 
 @watchwords - $85 - 
 @succored - $85 - 
-@incompletely - $45 - 
+@incompletely - sold - 
 @judgings - $40 - 
 @regives - $35 - 
 @xtudent - sold - 
