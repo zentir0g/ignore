@@ -202,7 +202,7 @@ discount - no
 @smure - $30 - 
 @resections - $45 - 
 @stalkless - $55 - 
-@clingyness - $40 - 
+@clingyness - sold - 
 @subcaste - $45 - 
 @catholicist - $70 - 
 @carbonizing - $40 - 
