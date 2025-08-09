@@ -231,7 +231,7 @@ discount - no
 @cantbitch - $80 - 
 @slutsite - $80 - 
 @sorrowvictim - $75 - 
-@unslut - $75 - 
+@unslut - sold - 
 @genderneutral - $70 - 
 @larpable - $65 - 
 @xclit - $65 - 
