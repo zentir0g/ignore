@@ -249,7 +249,7 @@ discount - no
 @convivially - $50 - 
 @courtorders - $50 - 
 @sublimeness - $50 - 
-@manydrugs - $50 - 
+@manydrugs - sold - 
 @sandboxings - $45 - 
 @diagonalised - $45 - 
 @discontinuities - $45 - 
