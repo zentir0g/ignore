@@ -81,7 +81,7 @@ discount - no
 @sociometrists - $30 -
 @percentiles - $35 -
 @reclaimable - $40 -
-@hwig - $45 -
+@hwig - $10 -
 @openmouthed - $30 -
 @mischarges - $25 -
 @begable - $25 -
@@ -312,17 +312,17 @@ discount - no
 @stabbedintheback - $30 -  
 @exhalants - $50 -  
 @cuqs - sold -  
-@jzpl - $30 -  
-@xovd - $30 -  
-@wmgi - $30 -  
-@tjtg - $30 -  
-@fvnl - $30 -  
-@sjcq - $30 -  
-@gsmq - $30 -  
+@jzpl - $10 -  
+@xovd - $10 -  
+@wmgi - $10 -  
+@tjtg - $10 -  
+@fvnl - $10 -  
+@sjcq - $10 -  
+@gsmq - $10 -  
 @cutepinkpussy - $150 -  
 @larpingbtc - $65 -  
 @cumquick - $85 -  
-@kwqf - $30 -  
+@kwqf - $10 -  
 @siloing - $35 -  
 @www.chess.com - $495 -  
 @equalitarian - $85 -  
@@ -373,3 +373,6 @@ new @startedfrom - $30 -
 new @blushings - $70 -  
 new @honeysweets - $65 -  
 new @undomestic - $55 -  
+new @mwwi - $45 -  
+new @sqqt - $45 -  
+new @shqq - $45 -  
