@@ -353,17 +353,23 @@ discount - no
 @payably - $50 -  
 @founde - $60 -  
 @bankreceipt - $65 -  
-new @supplyment - $50 -
-new @japanism - $110 %10 - 
-new @jetlagging - $70 - 
-new @bloodshedding - $120 - 
-new @crookery - $90 -
-new @wealthe - $100 -
-new @glancings - $60 -
-new @imparts - $75 -
-new @puerilism - $110 -
-new @miswritting - $40 -
-new @laywomen - $70 -
-new @imputative - $95 -
-new @declinations - $85 -
-new @subpose - $120 -
+@supplyment - $50 -
+@japanism - $110 %10 - 
+@jetlagging - $70 - 
+@bloodshedding - $120 - 
+@crookery - $90 -
+@wealthe - $100 -
+@glancings - $60 -
+@imparts - $75 -
+@puerilism - $110 -
+@miswritting - $40 -
+@laywomen - $70 -
+@imputative - $95 -
+@declinations - $85 -
+@subpose - $120 -
+new @pierceyourheart - $45 -  
+new @lovegifts - $35 -  
+new @startedfrom - $30 -  
+new @blushings - $70 -  
+new @honeysweets - $65 -  
+new @undomestic - $55 -  
