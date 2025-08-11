@@ -81,7 +81,7 @@ discount - no
 @sociometrists - $30 -
 @percentiles - $35 -
 @reclaimable - $40 -
-@hwig - $10 -
+@hwig - sold -
 @openmouthed - $30 -
 @mischarges - $25 -
 @begable - $25 -
@@ -237,7 +237,7 @@ discount - no
 @xclit - $65 - 
 @fallingsinlove - $65 - 
 @improvingmyself - $60 - 
-@slutish - $60 - 
+@slutish - sold - 
 @precariousness - $60 - 
 @poietic - $60 - 
 @prerogatives - $55 - 
