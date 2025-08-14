@@ -92,7 +92,7 @@ discount - no
 @buckshots - SOLD -
 @epurge - sold -
 @eternalvamp - $40 -
-@ethlicks - $2000 - Comes with instagram username
+@ethlicks - $35 - Comes with instagram username
 @eyefuls - $35 -
 @typologist - $45 -
 @befalled - $25 -
