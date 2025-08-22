@@ -233,7 +233,7 @@ discount - no
 @sorrowvictim - $75 - 
 @unslut - sold - 
 @genderneutral - $70 - 
-@larpable - $65 - 
+@larpable - sold - 
 @xclit - $65 - 
 @fallingsinlove - $65 - 
 @improvingmyself - $60 - 
@@ -326,7 +326,7 @@ discount - no
 @siloing - $35 -  
 @www.chess.com - $495 -  
 @equalitarian - $85 -  
-@vendibles - $40 -  
+@vendibles - sold -  
 @ltclarp - $30 -  
 @goingdowninhistory - $15 -  
 @fedlarp - $30 -  
