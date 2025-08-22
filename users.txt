@@ -367,16 +367,21 @@ discount - no
 @imputative - $95 -
 @declinations - $85 -
 @subpose - $120 -
-new @pierceyourheart - $45 -  
-new @lovegifts - $35 -  
-new @startedfrom - $30 -  
-new @blushings - $70 -  
-new @honeysweets - $65 -  
-new @undomestic - $55 -  
-new @mwwi - $45 -  
-new @sqqt - $45 -  
-new @shqq - $45 -  
+@pierceyourheart - $45 -  
+@lovegifts - $35 -  
+@startedfrom - $30 -  
+@blushings - $70 -  
+@honeysweets - $65 -  
+@undomestic - $55 -  
+@mwwi - $45 -  
+@sqqt - $45 -  
+@shqq - $45 -  
 hot @darkwebs - $150 -  
-new @airphones - $55 -  
-new @teaase - $40 -  
-new @antispam - $200 -
+@airphones - $55 -  
+@teaase - $40 -  
+hot @antispam - $200 -
+new @explainings - $40 -
+new @undressings - $90 -
+new @dignifier - $75 -
+new @warrantable - $50 -
+new @cocainized - $150 -
