@@ -385,3 +385,6 @@ new @undressings - $90 -
 new @dignifier - $75 -
 new @warrantable - $50 -
 new @cocainized - $150 -
+new @diagnosable - $45 -
+new @lustihead - $20 -
+new @outmoney - $35 -
