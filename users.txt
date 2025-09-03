@@ -308,7 +308,7 @@ discount - no
 @undiscernible - $70 -  
 @valleygirls - $40 -  
 @dissimilarities - $50 -  
-@thighed - $50 -  
+@thighed - sold -  
 @stabbedintheback - $30 -  
 @exhalants - $50 -  
 @cuqs - sold -  
