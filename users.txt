@@ -44,7 +44,7 @@ discount - no
 @blooddrinking - $100 - Comes with instagram username
 @handicapping - $40 -
 @underminings - $35 -
-@inyourtime - $70 -
+@inyourtime - $15 -
 @shitfaces - $100 -
 @cutscenes - $75 -
 @connivings - $30 -
