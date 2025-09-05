@@ -348,7 +348,7 @@ discount - no
 @twilives - $65 -  
 @affectible - $65 -  
 @promiserings - $55 -  
-@misanthropically - $70 -  
+@misanthropically - $30 -  
 @furlined - $45 -  
 @payably - $50 -  
 @founde - $60 -  
