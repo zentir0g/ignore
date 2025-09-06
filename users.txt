@@ -258,7 +258,7 @@ discount - no
 @reclothe - $40 - 
 @disinteress - $40 - 
 @henotheisms - $40 - 
-@larpingisfun - $40 - 
+@larpingisfun - $15 - 
 @larpedbands - $40 - 
 @cutsforhim - $40 - 
 @atitsworst - $40 - 
