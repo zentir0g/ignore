@@ -408,3 +408,15 @@ new @tranquilles - $100 -
 new @fleash - $40 -
 new @oncost - $50 -
 new @airdate - $85 -
+new @earpiercing - $70 -  
+new @weepingout - $45 -  
+new @excising - $40 -  
+new @paganisms - $85 -  
+new @luctuous - $50 -  
+new @assurements - $35 -  
+new @pureline - $80 -  
+new @patchings - $40 -  
+new @disbandings - $45 -  
+new @remarriage - $65 -  
+new @idealizings - $55 -  
+new @canarine - $60 -  
