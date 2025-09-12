@@ -388,35 +388,48 @@ hot @antispam - $200 -
 @diagnosable - $45 -
 @lustihead - $20 -
 @outmoney - $35 -
-new @violented - $75 -
-new @cumest - $40 -
-new @consumeable - $65 -
-new @murderlogs - $40 -
-new @perfumers - $35 -
-new @senatory - $85 -
-new @tously - $45 -
-new @unlistened - $50 -
-new @exudation - $70 -
-new @greeked - $95 -
-new @troublance - $65 -
-new @chillpills - $80 -
-new @kicksout - $55 -
-new @hokier - $25 -
-new @desexualise - $60 -
-new @unplanning - $50 -
-new @tranquilles - $100 -
-new @fleash - $40 -
-new @oncost - $50 -
-new @airdate - $85 -
-new @earpiercing - $70 -  
-new @weepingout - $45 -  
-new @excising - $40 -  
-new @paganisms - $85 -  
-new @luctuous - $50 -  
-new @assurements - $35 -  
-new @pureline - $80 -  
-new @patchings - $40 -  
-new @disbandings - $45 -  
-new @remarriage - $65 -  
-new @idealizings - $55 -  
-new @canarine - $60 -  
+@violented - $75 -
+@cumest - $40 -
+@consumeable - $65 -
+@murderlogs - $40 -
+@perfumers - $35 -
+@senatory - $85 -
+@tously - $45 -
+@unlistened - $50 -
+@exudation - $70 -
+@greeked - $95 -
+@troublance - $65 -
+@chillpills - $80 -
+@kicksout - $55 -
+@hokier - $25 -
+@desexualise - $60 -
+@unplanning - $50 -
+@tranquilles - $100 -
+@fleash - $40 -
+@oncost - $50 -
+@airdate - $85 -
+@earpiercing - $70 -  
+@weepingout - $45 -  
+@excising - $40 -  
+@paganisms - $85 -  
+@luctuous - $50 -  
+@assurements - $35 -  
+@pureline - $80 -  
+@patchings - $40 -  
+@disbandings - $45 -  
+@remarriage - $65 -  
+@idealizings - $55 -  
+@canarine - $60 -  
+new @bloodsucked - $45 -
+new @reparably - $70 -
+new @beveling - $40 -
+new @splittings - $35 -
+new @unrejectable - $80 -
+new @separe - $65 -
+new @cofounding - $90 -
+new @presentings - $50 -
+new @selfteaching - $60 -
+new @secound - $30 -
+new @hornyhead - $25 -
+new @releif - $40 -
+new @torturingly - $55 -
