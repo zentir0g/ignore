@@ -46,7 +46,7 @@ discount - no
 @underminings - $35 -
 @inyourtime - $15 -
 @shitfaces - $100 -
-@cutscenes - $75 -
+@cutscenes - sold -
 @connivings - $30 -
 @cordmakers - $25 -
 @oppressings - $30 -
