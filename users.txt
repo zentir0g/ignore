@@ -260,7 +260,7 @@ discount - no
 @henotheisms - $40 - 
 @larpingisfun - $15 - 
 @larpedbands - $40 - 
-@cutsforhim - $40 - 
+@cutsforhim - sold - 
 @atitsworst - $40 - 
 @necklines - $40 - 
 @plsweed - $40 - 
