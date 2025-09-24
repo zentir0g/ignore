@@ -187,7 +187,7 @@ discount - no
 @understates - $60 - 
 @scarings - $40 - 
 @deputied - $35 - 
-@murdercharge - $75 - 
+@murdercharge - sold - 
 @snoozier - $50 - 
 @iranians - $80 - 
 @coapts - $30 - 
