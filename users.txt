@@ -434,37 +434,80 @@ hot @antispam - $200 -
 @releif - $40 -
 @torturingly - $55 -
 hot @jewism - $250 -
-new @antinukes - $80 -
-new @asymbolic - $40 -
-new @vinneger - $25 -
-new @overconsumption - $30 -
-new @diseuse - $35 -
-new @depreciatory - $40 -
-new @bountifulness - $30 -
-new @previewers - $25 -
-new @pupillary - $30 -
-new @restyles - $25 -
-new @orthopedists - $25 -
-new @measurers - $20 -
-new @stairlike - $25 -
-new @tattooists - $40 -
-new @pantiles - $25 -
-new @repainting - $25 -
-new @liehard - $70 -
-new @unimitable - $30 -
-new @unchoked - $40 -
-new @cultritual - $85 -
-new @effable - $25 -
-new @becomingness - $30 -
-new @accumulatively - $20 -
-new @overcalling - $25 -
-new @priestism - $55 -
-new @obituarily - $90 -
-new @vellicates - $60 -
-new @partycrashing - $45 -
-new @sprant - $20 -
-new @soldaway - $40 -
-new @exhalent - $25 -
-new @unsexiest - $35 -
-new @wfmf - $30 -
-new @dqfq - $30 - 
+@antinukes - $80 -
+@asymbolic - $40 -
+@vinneger - $25 -
+@overconsumption - $30 -
+@diseuse - $35 -
+@depreciatory - $40 -
+@bountifulness - $30 -
+@previewers - $25 -
+@pupillary - $30 -
+@restyles - $25 -
+@orthopedists - $25 -
+@measurers - $20 -
+@stairlike - $25 -
+@tattooists - $40 -
+@pantiles - $25 -
+@repainting - $25 -
+@liehard - $70 -
+@unimitable - $30 -
+@unchoked - $40 -
+@cultritual - $85 -
+@effable - $25 -
+@becomingness - $30 -
+@accumulatively - $20 -
+@overcalling - $25 -
+@priestism - $55 -
+@obituarily - $90 -
+@vellicates - $60 -
+@partycrashing - $45 -
+@sprant - $20 -
+@soldaway - $40 -
+@exhalent - $25 -
+@unsexiest - $35 -
+@wfmf - $30 -
+@dqfq - $30 - 
+new @gcmi - $10 -
+new @ziyj - $10 -
+new @ruralism - $70 -
+new @recodings - $55 -
+new @sjsa - $45 -
+new @frva - $10 -
+new @zngz - $45 -
+new @znkc - $10 -
+new @znlc - $10 -
+new @znvq - $10 -
+new @dcfw - $10 -
+new @epjx - $10 -
+new @pfrl - $10 -
+new @fwhd - $10 -
+new @znmf - $10 -
+new @reparts - $60 -
+new @untense - $85 -
+new @reanalyze - $100 -
+new @outstandings - $70 -
+new @afterlove - $65 -
+new @vowch - $30 -
+new @prxt - $10 -
+new @hmur - $10 -
+new @lwxx - $45 -
+new @qukl - $10 -
+new @gqno - $10 -
+new @vfjo - $10 -
+new @uxsg - $10 -
+new @yvjx - $10 -
+new @egxf - $10 -
+new @kqjk - $10 -
+new @rxtc - $10 -
+new @gxhq - $10 -
+new @fhkk - $70 -
+new @xhcq - $10 -
+new @mzzx - $45 -
+new @vptj - $10 -
+new @unprohibited - $65 -
+new @classer - $60 -
+new @whoreing - $80 -
+new @dispers - $35 -
+new @goingafter - $70 -
+new @whoopings - $65 -
