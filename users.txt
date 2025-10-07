@@ -145,7 +145,7 @@ discount - no
 @hearingshit - $75 - perfect for loud micers
 @phalera - $45 - 
 @republishing - $85 - 
-@unconvinceable - $120 - Comes with instagram username
+@unconvinceable - $70 - Comes with instagram username
 @grecques - $55 - 
 @cutenesses - $55 - 
 @selfists - $55 - 
@@ -324,7 +324,7 @@ discount - no
 @cumquick - $85 -  
 @kwqf - sold -  
 @siloing - $35 -  
-@www.chess.com - $495 -  
+@www.chess.com - $100 -  
 @equalitarian - $85 -  
 @vendibles - sold -  
 @ltclarp - $30 -  
@@ -356,17 +356,17 @@ discount - no
 @supplyment - $50 -
 @japanism - $110 %10 - 
 @jetlagging - $70 - 
-@bloodshedding - $120 - 
+@bloodshedding - $70 - 
 @crookery - $90 -
 @wealthe - sold -
 @glancings - $60 -
 @imparts - $75 -
-@puerilism - $110 -
+@puerilism - $100 -
 @miswritting - $40 -
 @laywomen - $70 -
 @imputative - $95 -
 @declinations - $40 -
-@subpose - $120 -
+@subpose - $50 -
 @pierceyourheart - $15 -  
 @lovegifts - $35 -  
 @startedfrom - $30 -  
@@ -376,15 +376,15 @@ discount - no
 @mwwi - $45 -  
 @sqqt - $45 -  
 @shqq - $45 -  
-hot @darkwebs - $150 -  
+hot @darkwebs - $100 -  
 @airphones - $55 -  
 @teaase - $40 -  
-hot @antispam - $200 -
+hot @antispam - $100 -
 @explainings - $40 -
 @undressings - $90 -
 @dignifier - $75 -
 @warrantable - $50 -
-@cocainized - $150 -
+@cocainized - $100 -
 @diagnosable - $45 -
 @lustihead - $20 -
 @outmoney - $35 -
@@ -433,7 +433,7 @@ hot @antispam - $200 -
 @hornyhead - $25 -
 @releif - $40 -
 @torturingly - $55 -
-hot @jewism - $250 -
+hot @jewism - $100 -
 @antinukes - $80 -
 @asymbolic - $40 -
 @vinneger - $25 -
@@ -485,7 +485,7 @@ new @fwhd - $10 -
 new @znmf - $10 -
 new @reparts - $60 -
 new @untense - $85 -
-new @reanalyze - $100 -
+new @reanalyze - $75 -
 new @outstandings - $70 -
 new @afterlove - $65 -
 new @vowch - $30 -
