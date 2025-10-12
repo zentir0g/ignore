@@ -44,7 +44,7 @@ discount - no
 @blooddrinking - $100 -
 @handicapping - $20 -
 @underminings - $20 -
-@inyourtime - $15 -
+@inyourtime - sold -
 @shitfaces - $100 -
 @cutscenes - sold -
 @connivings - $30 -
@@ -140,7 +140,7 @@ discount - no
 @savedherlife - sold -
 @threatenable - $20 -
 @bloodvalue - $45 -
-@cutepinkpaws - $20 -
+@cutepinkpaws - sold -
 @sextraffickings - $50 -
 @hearingshit - $45 -
 @phalera - $50 -
@@ -489,7 +489,7 @@ discount - no
 @outstandings - $20 -
 @afterlove - $45 -
 @vowch - $50 -
-@prxt - $10 -
+@prxt - sold -
 @hmur - $10 -
 @lwxx - $50 -
 @qukl - $10 -
