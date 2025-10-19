@@ -511,3 +511,27 @@ discount - no
 @dispers - $50 -
 @goingafter - $45 -
 @whoopings - $45 -
+new @fucf - $60 -
+new @interrenal - $30 -
+new @leftouts - $60 -
+new @clashings - $45 -
+new @philosophied - $30 -
+new @defaceable - $45 -
+new @saveourlife - $15 -
+new @skippings - $50 -
+new @adawed - $25 -
+new @recitement - $20 -
+new @fireset - $20 -
+new @credal - $50 -
+new @iufw - $10 -
+new @unwitness - $50 -
+new @undetachable - $50 -
+new @unclaiming - $50 -
+new @unoil - $75 -
+new @confusings - $40 -
+new @sliminess - $20 -
+new @makv - $50 -
+new @raffery - $60 -
+new @wisdomship - $50 -
+new @rewardings - $50 -
+new @slittings - $75 -
