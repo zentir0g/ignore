@@ -517,7 +517,7 @@ new @leftouts - $60 -
 new @clashings - $45 -
 new @philosophied - $30 -
 new @defaceable - $45 -
-new @saveourlife - $15 -
+@saveourlife - sold -
 new @skippings - $50 -
 new @adawed - $25 -
 new @recitement - $20 -
