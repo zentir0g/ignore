@@ -379,7 +379,7 @@ discount - no
 @darkwebs - $100 -
 @airphones - $45 -
 @teaase - $50 -
-@antispam - $100 -
+@antispam - sold -
 @explainings - $40 -
 @undressings - $45 -
 @dignifier - $45 -
