@@ -433,7 +433,7 @@ discount - no
 @hornyhead - $30 -
 @releif - $50 -
 @torturingly - $45 -
-@jewism - $100 -
+@jewism - sold -
 @antinukes - $45 -
 @asymbolic - $40 -
 @vinneger - $30 -
