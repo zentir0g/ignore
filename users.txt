@@ -198,7 +198,7 @@ discount - no
 @miserablely - $45 -
 @onsold - $30 -
 @cloudservice - $20 -
-@uncomplete - $35 -
+@uncomplete - sold -
 @smure - $50 -
 @resections - $45 -
 @stalkless - $45 -
@@ -321,7 +321,7 @@ discount - no
 @gsmq - sold -
 @cutepinkpussy - $45 -
 @larpingbtc - $45 -
-@cumquick - $55 -
+@cumquick - sold -
 @kwqf - sold -
 @siloing - $50 -
 @www.chess.com - $100 -
@@ -507,7 +507,7 @@ discount - no
 @vptj - $10 -
 @unprohibited - $20 -
 @classer - $60 -
-@whoreing - $45 -
+@whoreing - sold -
 @dispers - $50 -
 @goingafter - $45 -
 @whoopings - $45 -
