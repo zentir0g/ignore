@@ -368,7 +368,7 @@ discount - no
 @declinations - $20 -
 @subpose - $50 -
 @pierceyourheart - $15 -
-@lovegifts - $35 -
+@lovegifts - sold -
 @startedfrom - $30 -
 @blushings - $45 -
 @honeysweets - $45 -
@@ -511,27 +511,68 @@ discount - no
 @dispers - $50 -
 @goingafter - $45 -
 @whoopings - $45 -
-new @fucf - $60 -
-new @interrenal - $30 -
-new @leftouts - $60 -
-new @clashings - $45 -
-new @philosophied - $30 -
-new @defaceable - $45 -
+@fucf - $60 -
+@interrenal - $30 -
+@leftouts - $60 -
+@clashings - $45 -
+@philosophied - $30 -
+@defaceable - $45 -
 @saveourlife - sold -
-new @skippings - $50 -
-new @adawed - $25 -
-new @recitement - $20 -
-new @fireset - $20 -
-new @credal - $50 -
-new @iufw - $10 -
-new @unwitness - $50 -
-new @undetachable - $50 -
-new @unclaiming - $50 -
-new @unoil - $75 -
-new @confusings - $40 -
-new @sliminess - $20 -
-new @makv - $50 -
-new @raffery - $60 -
-new @wisdomship - $50 -
-new @rewardings - $50 -
-new @slittings - $75 -
+@skippings - $50 -
+@adawed - $25 -
+@recitement - $20 -
+@fireset - $20 -
+@credal - $50 -
+@iufw - $10 -
+@unwitness - $50 -
+@undetachable - $50 -
+@unclaiming - $50 -
+@unoil - $75 -
+@confusings - $40 -
+@sliminess - $20 -
+@makv - $50 -
+@raffery - $60 -
+@wisdomship - $50 -
+@rewardings - $50 -
+@slittings - $75 -
+@cannott - $45 -
+@apill - $45 -
+@fullrecovery - $60 -
+@bigges - $45 -
+@illuminatism - $95 -
+@sewnin - $90 -
+@toysome - $80 -
+@keeked - $70 -
+@sexlives - $100 -
+@deathsongs - $90 -
+@bitmylips - $25 -
+@correlatively - $45 -
+@wirey - $150 -
+@rousy - $150 -
+@asscheeks - $150 -
+@iunte - $45 -
+@compacks - $50 -
+@oilholes - $45 -
+@fifed - $35 -
+@cuttingknife - $35 -
+@slaverings - $45 -
+@overprotection - $50 -
+@exbeggar - $45 -
+@sexlarping - $65 -
+@sexkillers - $35 -
+@truses - $65 -
+@interpretings - $45 -
+@nonconceptual - $60 -
+@spiritualisation - $60 -
+@annoyd - $25 -
+@piercedmyheart - $25 -
+@unlessoned - $45 -
+@helplines - $100 -
+@bodyshamed - $50 -
+@decurt - $25 -
+@blazons - $25 -
+@dependences - $100 -
+@consentful - $100 -
+@incommutable - $65 -
+@warbled - $75 -
+@writtin - $150 -
