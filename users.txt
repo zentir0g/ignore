@@ -162,7 +162,7 @@ discount - no
 @mistaste - $45 -
 @dotation - $45 -
 @uncoils - $50 -
-@bailouts - $45 -
+@bailouts - sold -
 @wcoo - $50 -
 @stolencard - $35 -
 @schoolswatting - $20 -
