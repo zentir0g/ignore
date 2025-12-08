@@ -76,7 +76,7 @@ discount - no
 @inspirings - $30 -
 @componist - $40 -
 @prostrating - $40 -
-@AdapTion - $45 -
+@AdapTion - sold -
 @lawsetter - $40 -
 @sociometrists - $20 -
 @percentiles - $35 -
@@ -196,7 +196,7 @@ discount - no
 @derestriction - $20 -
 @disjunctions - $20 -
 @miserablely - $45 -
-@onsold - $30 -
+@onsold - sold -
 @cloudservice - $20 -
 @uncomplete - sold -
 @smure - $50 -
@@ -461,7 +461,7 @@ discount - no
 @priestism - $45 -
 @obituarily - $45 -
 @vellicates - $45 -
-@partycrashing - $20 -
+@partycrashing - sold -
 @sprant - $50 -
 @soldaway - $40 -
 @exhalent - $30 -
@@ -490,7 +490,7 @@ discount - no
 @afterlove - $45 -
 @vowch - $50 -
 @prxt - sold -
-@hmur - $10 -
+@hmur - sold -
 @lwxx - $50 -
 @qukl - $10 -
 @gqno - $10 -
