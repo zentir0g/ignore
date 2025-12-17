@@ -338,7 +338,6 @@ discount - no
 @begbitch - sold -
 @pinkscut - $30 -
 @cutepinkcat - $45 -
-@dollysex - $55 -
 @veinlike - $45 -
 @worshippable - $20 -
 @videocallings - $20 -
@@ -576,3 +575,10 @@ discount - no
 @incommutable - $65 -
 @warbled - $75 -
 @writtin - $150 -
+@cyberlaws - sold -
+@infectable - $65 - 
+@eyeslits - $25 - 
+@sinophilia - $35 -
+@cullets - $35 -
+@theirfault - $15 - 
+@dollysex - $90 - 
