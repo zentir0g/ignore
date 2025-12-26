@@ -84,7 +84,7 @@ discount - no
 @hwig - sold -
 @openmouthed - $30 -
 @mischarges - $30 -
-@begable - $50 -
+@begable - sold -
 @neglec - $50 -
 @compings - $30 -
 @subproduct - $30 -
@@ -104,7 +104,7 @@ discount - no
 @reclaimings - $30 -
 @reshares - $35 -
 @forgiveable - SOLD -
-@senseable - $45 -
+@senseable - sold -
 @thiefing - sold -
 @outfan - sold -
 @subtractings - $20 -
@@ -586,7 +586,7 @@ discount - no
 @keptaway - $35 -
 @suicidebombs - $25 -
 @implosives - $45 -
-@schoolband - $25 -
+@schoolband - sold -
 @diptech - $20 -
 @subitize - $70 -
 @aromatically - $45 -
