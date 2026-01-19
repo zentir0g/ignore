@@ -429,7 +429,7 @@ discount - no
 @presentings - $45 -
 @selfteaching - $20 -
 @secound - $50 -
-@hornyhead - $30 -
+@hornyhead - sold -
 @releif - $50 -
 @torturingly - $45 -
 @jewism - sold -
@@ -581,7 +581,7 @@ discount - no
 @sinophilia - $35 -
 @cullets - $35 -
 @theirfault - $15 - 
-@dollysex - $90 - 
+@dollysex - sold - 
 @selfdead - $35 -
 @keptaway - $35 -
 @suicidebombs - $25 -
@@ -645,4 +645,4 @@ discount - no
 redeemed - $100 -
 misbelieve - $95 -
 unwifely - $50 -
-masssuicide - $40 -
+masssuicide - sold -
