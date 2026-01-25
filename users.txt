@@ -453,7 +453,7 @@ discount - no
 @unimitable - $30 -
 @unchoked - $40 -
 @cultritual - $45 -
-@effable - $50 -
+@effable - sold -
 @becomingness - $20 -
 @accumulatively - $40 -
 @overcalling - $30 -
@@ -482,7 +482,7 @@ discount - no
 @pfrl - $10 -
 @fwhd - $10 -
 @znmf - $10 -
-@reparts - $60 -
+@reparts - sold -
 @untense - $60 -
 @reanalyze - $45 -
 @outstandings - $20 -
