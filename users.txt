@@ -642,10 +642,10 @@ discount - no
 @gybes - $15 -
 @tvscreens - $75 -
 @guiltlessly - $35 -
-redeemed - $100 -
-misbelieve - $95 -
-unwifely - $50 -
-masssuicide - sold -
+@redeemed - $100 -
+@misbelieve - $95 -
+@unwifely - $50 -
+@masssuicide - sold -
 @blondism - $65 -
 @expressibility - $70 -
 @subequal - $45 -
