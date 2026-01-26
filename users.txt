@@ -621,8 +621,8 @@ discount - no
 @respelled - $35
 @kickier - $20 -
 @piercedyourheart - $20
-@apostatism - $45 -
-@enslavings - $40 -
+@apostatism - $75 -
+@enslavings - $80 -
 @tookherbreath - $30 -
 @endedit - $85 -
 @semipublic - $45 -
@@ -634,7 +634,7 @@ discount - no
 @perjurious - $20 -
 @unreceiving - $55 -
 @fulgency - $20 -
-@gastight - $25 -
+@gastight - $35 -
 @permissively - $60 -
 @supertankers - $15 -
 @fingerpicks - $35 -
