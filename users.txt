@@ -605,7 +605,7 @@ discount - no
 @eldern - $75 -
 @hoseless - $45 -
 @bloodtypes - $70 -
-@obeyings - $95 -
+@obeyings - sold -
 @tensionally - $45 -
 @swipecard - $50 -
 @reserval - $45 -
