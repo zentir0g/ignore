@@ -407,7 +407,7 @@ discount - no
 @fleash - $50 -
 @oncost - $50 -
 @airdate - $60 -
-@earpiercing - $45 -
+@earpiercing - sold -
 @weepingout - $45 -
 @excising - $40 -
 @paganisms - $45 -
