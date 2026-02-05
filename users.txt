@@ -227,7 +227,7 @@ discount - no
 @sexlessly - $55 -
 @ithyphallique - $20 -
 @cultdamage - $45 -
-@whatsdonecannotbeundone - $15 -
+@whatsdonecannotbeundone - sold -
 @cantbitch - $45 -
 @slutsite - $55 -
 @sorrowvictim - $20 -
@@ -299,7 +299,7 @@ discount - no
 @commonplaces - $20 -
 @rawblacksex - $55 -
 @reclones - $45 -
-@bloodfestival - $20 -
+@bloodfestival - sold -
 @bloodprop - $45 -
 @hirself - $60 -
 @contrivances - $20 -
@@ -390,7 +390,7 @@ discount - no
 @violented - $45 -
 @cumest - $50 -
 @consumeable - $45 -
-@murderlogs - $40 -
+@murderlogs - sold -
 @perfumers - $35 -
 @senatory - $45 -
 @tously - $50 -
