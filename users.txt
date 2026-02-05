@@ -328,7 +328,7 @@ discount - no
 @equalitarian - $20 -
 @vendibles - sold -
 @ltclarp - sold -
-@goingdowninhistory - $15 -
+@goingdowninhistory - sold -
 @fedlarp - $50 -
 @redflagging - $45 -
 @funfairs - sold -
