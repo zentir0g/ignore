@@ -329,7 +329,7 @@ discount - no
 @vendibles - sold -
 @ltclarp - sold -
 @goingdowninhistory - sold -
-@fedlarp - $50 -
+@fedlarp - sold -
 @redflagging - $45 -
 @funfairs - sold -
 @tipcum - $60 -
@@ -477,7 +477,7 @@ discount - no
 @znkc - $10 -
 @znlc - $10 -
 @znvq - $10 -
-@dcfw - $10 -
+@dcfw - sold -
 @epjx - $10 -
 @pfrl - $10 -
 @fwhd - $10 -
@@ -587,7 +587,7 @@ discount - no
 @suicidebombs - $25 -
 @implosives - $45 -
 @schoolband - sold -
-@diptech - $20 -
+@diptech - sold -
 @subitize - $70 -
 @aromatically - $45 -
 @conductively - $35 -
