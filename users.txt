@@ -745,3 +745,6 @@ discount - no
 @disvailed - $20 -
 @middlemaning - $100 -
 @bottlenecking - $100 -
+@eartag - $90 - 
+@uncollected - $75 - 
+@glqv - $20 - 
