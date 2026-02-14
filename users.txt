@@ -748,3 +748,4 @@ discount - no
 @eartag - $90 - 
 @uncollected - $75 - 
 @glqv - $20 - 
+@speaked - $500 - 
