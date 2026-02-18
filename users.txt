@@ -749,3 +749,4 @@ discount - no
 @uncollected - $75 - 
 @glqv - $20 - 
 @speaked - $500 - 
+@daughtor - $50 - 
