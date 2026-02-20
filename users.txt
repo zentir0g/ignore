@@ -546,8 +546,8 @@ discount - no
 @deathsongs - $90 -
 @bitmylips - $25 -
 @correlatively - $45 -
-@wirey - $150 -
-@rousy - $150 -
+@wirey - $35 -
+@rousy - $35 -
 @asscheeks - $150 -
 @iunte - $45 -
 @compacks - $50 -
@@ -750,3 +750,4 @@ discount - no
 @glqv - $20 - 
 @speaked - $500 - 
 @daughtor - $50 - 
+@nonaccess - $150 - 
