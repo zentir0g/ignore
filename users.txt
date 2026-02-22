@@ -751,3 +751,7 @@ discount - no
 @speaked - $500 - 
 @daughtor - $50 - 
 @nonaccess - $150 - 
+@nightshow - $35 - 
+@miswrite - $25 -
+@emptycell - $20 - 
+@unflaming - $50 - 
