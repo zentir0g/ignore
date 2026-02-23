@@ -755,3 +755,8 @@ discount - no
 @miswrite - $25 -
 @emptycell - $20 - 
 @unflaming - $50 - 
+@sexifid - 50$ - 
+@hatful - 50$ - 
+@nervious - 75$ - 
+@whoreout - 80$ - 
+@stealincrypto - 25$ - 
