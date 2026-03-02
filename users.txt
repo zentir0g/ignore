@@ -89,7 +89,7 @@ discount - no
 @compings - $30 -
 @subproduct - $30 -
 @urnful - sold -
-@buckshots - SOLD -
+@buckshots - $100 -
 @epurge - sold -
 @eternalvamp - $40 -
 @ethlicks - $35 -
@@ -340,7 +340,7 @@ discount - no
 @cutepinkcat - $45 -
 @veinlike - $45 -
 @worshippable - $20 -
-@videocallings - $20 -
+@videocallings - sold -
 @outcarves - $30 -
 @verbage - $50 -
 @destabilising - $20 -
@@ -548,7 +548,7 @@ discount - no
 @correlatively - $45 -
 @wirey - $35 -
 @rousy - $35 -
-@asscheeks - $150 -
+@asscheeks - sold -
 @iunte - $45 -
 @compacks - $50 -
 @oilholes - $45 -
@@ -640,7 +640,7 @@ discount - no
 @fingerpicks - $35 -
 @prelatic - $20 -
 @gybes - $15 -
-@tvscreens - $75 -
+@tvscreens - sold -
 @guiltlessly - $35 -
 @redeemed - $100 -
 @misbelieve - $95 -
