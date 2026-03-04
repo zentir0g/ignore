@@ -762,3 +762,4 @@ discount - no
 @stealincrypto - $25 - 
 @selfdevoted - $25 - 
 @quotee - $800 - 
+@antispam - $1500 -
