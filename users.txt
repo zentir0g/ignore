@@ -760,3 +760,5 @@ discount - no
 @nervious - $75 - 
 @whoreout - $80 - 
 @stealincrypto - $25 - 
+@selfdevoted - $25 - 
+@quotee - $800 - 
