@@ -101,7 +101,7 @@ discount - no
 @hockeys - sold -
 @brothersinlaw - $20 -
 @kickouts - sold -
-@reclaimings - $30 -
+@reclaimings - sold -
 @reshares - $35 -
 @forgiveable - SOLD -
 @senseable - sold -
@@ -485,7 +485,7 @@ discount - no
 @reparts - sold -
 @untense - $60 -
 @reanalyze - $45 -
-@outstandings - $20 -
+@outstandings - sold -
 @afterlove - $45 -
 @vowch - $50 -
 @prxt - sold -
