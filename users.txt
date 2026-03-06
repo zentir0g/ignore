@@ -598,7 +598,7 @@ discount - no
 @bitchslaps - $15 -
 @princepoet - $30 -
 @seccos - $35 -
-@privatecall - $95 -
+@privatecall - sold -
 @crossdates - $40 -
 @buckboards - $35 -
 @unexplicitly - $70 -
