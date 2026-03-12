@@ -762,3 +762,45 @@ discount - no
 @selfdevoted - $25 - 
 @quotee - $800 - 
 @antispam - $1500 - 
+new @freezingcold - $50 -
+new @antileak - $45 -
+new @descaling - $75 -
+new @pungle - $35 -
+new @nonproven - $45 -
+new @unusefully - $45 -
+new @insociably - $35 -
+new @fixedness - $30 -
+new @sugarcanes - $55 -
+new @convectively - $60 -
+new @looves - $35 -
+new @getpast - $25 -
+new @dickridings - $95 -
+new @reconquered - $35 -
+new @sunsetting - $50 -
+new @leavingyoualone - $15 -
+new @protectivecustody - $15 -
+new @lovelooks - $25 -
+new @snowcold - $25 -
+new @unwooded - $30 -
+new @uncramp - $45 -
+new @suffusive - $70 -
+new @lovecharm - $75 -
+new @livedaway - $25 -
+new @resexing - $70 -
+new @overwhelmings - $55 -
+new @nonplace - $60 -
+new @prewritten - $45 -
+new @zombification - $45 -
+new @unknowingness - $30 -
+new @blovd - $75 - closest to the "blood"
+new @driveoff - $25 -
+new @duplicities - $35 -
+new @excussing - $100 -
+new @incontrollable - $45 -
+new @organicism - $30 -
+new @fastenings - $30 -
+new @hangments - $25 -
+new @wornoff - $45 -
+new @taglines - $65 -
+new @minesweepings - $75 -
+new @sulphated - $50 -
