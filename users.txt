@@ -641,7 +641,7 @@ discount - no
 @gybes - $15 -
 @tvscreens - sold -
 @guiltlessly - $35 -
-@redeemed - $100 -
+@redeemed - sold -
 @misbelieve - $95 -
 @unwifely - $50 -
 @masssuicide - sold -
@@ -655,8 +655,8 @@ discount - no
 @wirepulling - $35 -
 @decessions - $75 -
 @parametrically - $45 -
-@disownable - $65 -
-@unaccessable - $85 -
+@disownable - sold -
+@unaccessable - sold -
 @logwork - $40 -
 @wrathily - $90 -
 @possessable - $75 -
@@ -675,7 +675,7 @@ discount - no
 @factorings - $35 -
 @misgrowing - $35 -
 @survivall - $95 -
-@highincome - $100 -
+@highincome - sold -
 @untackle - $50 -
 @thaat - $75 -
 @useout - $45 -
