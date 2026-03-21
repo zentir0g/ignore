@@ -677,7 +677,7 @@ discount - 50
 @survivall - $95 -
 @highincome - sold -
 @untackle - $50 -
-@thaat - $75 -
+@thaat - sold -
 @useout - $45 -
 @hypnotizings - $55 -
 @pleaing - $75 -
@@ -686,7 +686,7 @@ discount - 50
 @pressurehold - $35 -
 @occassionally - $45 -
 @unwaving - $55 -
-@fairylands - $55 -
+@fairylands - sold -
 @spousings - $60 -
 @wareness - $75 -
 @loanbank - $65 -
