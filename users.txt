@@ -804,3 +804,5 @@ new @wornoff - $45 -
 new @taglines - $65 -
 new @minesweepings - $75 -
 new @sulphated - $50 -
+new @niggerhunter - $100 - 
+new @mhpg - $25 - 
