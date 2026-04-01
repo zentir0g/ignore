@@ -383,7 +383,7 @@ discount - 50
 @dignifier - $45 -
 @warrantable - $45 -
 @cocainized - $100 -
-@diagnosable - $45 -
+@diagnosable - sold -
 @lustihead - $30 -
 @outmoney - $35 -
 @violented - $45 -
@@ -545,7 +545,7 @@ discount - 50
 @deathsongs - $90 -
 @bitmylips - $25 -
 @correlatively - $45 -
-@wirey - $35 -
+@wirey - sold -
 @rousy - $35 -
 @asscheeks - sold -
 @iunte - $45 -
