@@ -532,7 +532,7 @@ discount - 50
 @raffery - $60 -
 @wisdomship - $50 -
 @rewardings - $50 -
-@slittings - $75 -
+@slittings - sold -
 @cannott - $45 -
 @apill - $45 -
 @fullrecovery - $60 -
