@@ -42,7 +42,7 @@ discount - 50
 @cutscord - $35 -
 @misleadingly - SOLD -
 @blooddrinking - sold -
-@handicapping - $20 -
+@handicapping - sold -
 @underminings - $20 -
 @inyourtime - sold -
 @shitfaces - $100 -
@@ -790,7 +790,7 @@ discount - 50
 @overwhelmings - $55 -
 @nonplace - $60 -
 @prewritten - $45 -
-@zombification - $45 -
+@zombification - sold -
 @unknowingness - $30 -
 @blovd - $75 - closest to the "blood"
 @driveoff - $25 -
