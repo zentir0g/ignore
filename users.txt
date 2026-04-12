@@ -809,7 +809,7 @@ discount - 50
 @believingly - $35 - 
 @heldcaptive - $30 -
 @stounded - $45 -
-@incoffin - $25 -
+@incoffin - sold -
 @inexpensively - $30 -
 @accusatively - $30 -
 @bandying - $25 -
