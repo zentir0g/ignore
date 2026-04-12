@@ -824,7 +824,7 @@ discount - 50
 @huggingly - $35 -
 @charmingness - $30 -
 @biographically - $75 -
-@inflectional - $70 -
+@inflectional - sold -
 @disinvestment - $30 -
 @billingaddress - $70 -
 @dualizes - $15 -
