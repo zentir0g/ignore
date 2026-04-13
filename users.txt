@@ -34,7 +34,7 @@ discount - 50
 @stalkingly - $30 -
 @reincite - $30 -
 @adiabatically - $20 -
-@unprofessionally - $20 -
+@unprofessionally - sold -
 @infamatory - $30 -
 @insew - $50 -
 @ajourn - $50 -
@@ -355,7 +355,7 @@ discount - 50
 @supplyment - $45 -
 @japanism - $110 %10 -
 @jetlagging - $45 -
-@bloodshedding - $20 -
+@bloodshedding - sold -
 @crookery - $45 -
 @wealthe - sold -
 @glancings - $45 -
