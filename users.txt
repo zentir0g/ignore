@@ -618,7 +618,7 @@ discount - 50
 @separably - $35 -
 @becrime - $70 -
 @respelled - $35
-@kickier - $20 -
+@kickier - sold -
 @piercedyourheart - $20
 @apostatism - $75 -
 @enslavings - $80 -
