@@ -471,7 +471,7 @@ discount - 50
 @ruralism - $45 -
 @recodings - $45 -
 @sjsa - $50 -
-@frva - $10 -
+@frva - sold -
 @zngz - $50 -
 @znkc - $10 -
 @znlc - $10 -
