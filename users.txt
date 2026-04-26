@@ -836,7 +836,7 @@ discount - 50
 @usedup - $30 -
 @reshining - $35 -
 @districtings - $25 -
-@hydeous - $15 -
+@hydeous - sold -
 @strongness - $85 -
 @exactors - $60 -
 @bustedmyass - $15 -
