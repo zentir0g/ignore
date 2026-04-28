@@ -779,7 +779,7 @@ discount - 50
 @sunsetting - $50 -
 @leavingyoualone - $15 -
 @protectivecustody - $15 -
-@lovelooks - $25 -
+@lovelooks - sold -
 @snowcold - $25 -
 @unwooded - $30 -
 @uncramp - $45 -
