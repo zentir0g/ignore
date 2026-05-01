@@ -31,7 +31,7 @@ discount - 50
 @selfdeprecation - $20 -
 @unmercifully - $20 -
 @prayable - $30 -
-@stalkingly - $30 -
+@stalkingly - sold -
 @reincite - $30 -
 @adiabatically - $20 -
 @unprofessionally - sold -
