@@ -589,7 +589,7 @@ discount - 50
 @diptech - sold -
 @subitize - $70 -
 @aromatically - $45 -
-@conductively - $35 -
+@conductively - sold -
 @inductances - $30 -
 @breakhisface - $20 -
 @hotspotting - $45 -
