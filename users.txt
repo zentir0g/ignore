@@ -583,7 +583,7 @@ discount - 50
 @dollysex - sold - 
 @selfdead - $35 -
 @keptaway - $35 -
-@suicidebombs - $25 -
+@suicidebombs - sold -
 @implosives - $45 -
 @schoolband - sold -
 @diptech - sold -
