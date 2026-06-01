@@ -172,7 +172,7 @@ discount - 0
 @buckshots - $180 -
 @burdeners - $180 -
 @canarine - $220 -
-@cantbitch - $180 -
+@cantbitch - sold -
 @cheekkiss - $180 -
 @chequebook - $180 -
 @chillpills - $180 -
@@ -339,7 +339,7 @@ discount - 0
 @septated - $220 -
 @sexkillers - $90 -
 @sexlarping - $90 -
-@sexlessly - $90 -
+@sexlessly - sold -
 @sexlives - $180 -
 @shitfaces - $180 -
 @sinophilia - $180 -
