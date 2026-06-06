@@ -63,7 +63,7 @@ discount - 0
 @cavels - $220 -
 @classer - $220 -
 @credal - $220 -
-@crooned - $220 -
+@crooned - sold -
 @cullets - $220 -
 @cumest - $180 -
 @decurt - $220 -
@@ -351,7 +351,7 @@ discount - 0
 @slutsite - $180 -
 @snowcold - $220 -
 @soldaway - $220 -
-@solemnness - $180 -
+@solemnness - sold -
 @solenocyte - $180 -
 @splittings - $180 -
 @spousings - $180 -
