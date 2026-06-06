@@ -260,7 +260,7 @@ discount - 0
 @keptaway - $220 -
 @kicksout - $220 -
 @kniferest - $180 -
-@larpable - $220 -
+@larpable - sold -
 @laywomen - $220 -
 @leftouts - $220 -
 @livedaway - $180 -
