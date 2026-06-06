@@ -34,9 +34,9 @@ discount - 0
 @unoil - $220 -
 @vowch - $220 -
 @xclit - $220 -
-@antileak - $500 -
+@antileak - $1500 -
 @antinukes - $220 -
-@antispam - $500 -
+@antispam - $1500 -
 @bloodprop - $180 -
 @bloodtypes - $180 -
 @foolaway - $220 -
