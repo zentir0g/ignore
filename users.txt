@@ -48,7 +48,7 @@ discount - 0
 @outmoney - $220 -
 @pantiles - $220 -
 @sexybank - $220 -
-@thefunds - $500 -
+@thefunds - sold -
 @absumes - $220 -
 @adawed - $220 -
 @airdate - $220 -
