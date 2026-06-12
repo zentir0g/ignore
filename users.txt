@@ -19,7 +19,7 @@ discount - 0
 @wmgi - $10 -
 @ziyj - $10 -
 @leakdm - $220 -
-@quotee - $500 -
+@quotee - sold -
 @apill - $220 -
 @blovd - $220 - closest to the "blood"
 @eorta - $220 -
@@ -496,7 +496,7 @@ discount - 0
 @expressibility - $90 -
 @extortingpedos - $90 -
 @failedlittle - $90 -
-@federalcase - $90 -
+@federalcase - sold -
 @femaleslavery - $90 -
 @fingerpicks - $90 -
 @freezingcold - $90 -
