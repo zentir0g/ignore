@@ -36,7 +36,7 @@ discount - 0
 @xclit - $220 -
 @antileak - $1500 -
 @antinukes - $220 -
-@antispam - $1500 -
+@antispam - $10000 -
 @bloodprop - $180 -
 @bloodtypes - $180 -
 @foolaway - $220 -
