@@ -446,7 +446,7 @@ discount - 0
 @znlc - $10 -
 @znmf - $10 -
 @znvq - $10 -
-@accumulatively - $20 -
+@accumulatively - sold -
 @accusatively - $90 -
 @acropolises - $90 -
 @adiabatically - $90 -
